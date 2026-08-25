@@ -25,6 +25,25 @@
 
 <br/>
 
+## 🚀 Founder Journey — Smartsmire
+
+<p align="center">
+  <a href="https://smartsmire.co.uk"><img src="https://img.shields.io/badge/Company-smartsmire.co.uk-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://trustscoreid.com"><img src="https://img.shields.io/badge/Product-trustscoreid.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+I founded **Smartsmire**, a UK-based venture building trust infrastructure for identity — moving beyond one-time document checks toward continuous, consent-driven verification. Three things set it apart:
+
+- **Clean Path Score** — a dynamic, behavior-based trust signal that evolves with the user, cutting down repeated verification loops
+- **Triple Anchor Verification** — a three-layer model combining documents, behavioral patterns, and blockchain anchoring for tamper-resistant validation
+- **Consent Vault** — a user-controlled layer where individuals decide exactly what's shared, with whom, and for how long
+
+Designed API-first and modular, the platform was built to plug into HR onboarding, driver-eligibility checks, gig-worker verification, and background screening — following a SaaS + API licensing model, without requiring partner organizations to rebuild their systems.
+
+The venture is currently on hold while I pursue UK Innovator Founder visa endorsement. In parallel, I've continued the data work behind it as Business Data Analyst on the same platform — building the risk-scoring pipelines, anomaly detection models, and Power BI reporting that power it.
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -80,7 +99,8 @@
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Case%20Study-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="https://trustscoreid.com"><img src="https://img.shields.io/badge/Live%20Product-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+        <a href="https://smartsmire.co.uk"><img src="https://img.shields.io/badge/Company%20Site-181717?style=flat-square&logo=googlechrome&logoColor=white"/></a>
       </p>
     </td>
     <td width="33%">
