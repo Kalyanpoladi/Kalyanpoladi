@@ -111,9 +111,6 @@ The venture is currently on hold while I pursue UK Innovator Founder visa endors
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Case%20Study-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
     </td>
     <td width="33%">
       <h3 align="center">📊 BI Dashboard Suite & Forecasting</h3>
@@ -123,14 +120,9 @@ The venture is currently on hold while I pursue UK Innovator Founder visa endors
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Case%20Study-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
     </td>
   </tr>
 </table>
-
-<p align="center"><i>Replace the "Case Study" links above with actual repo links once you upload sample projects, notebooks, or dashboard exports to GitHub.</i></p>
 
 <br/>
 
