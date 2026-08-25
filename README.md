@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-- 📊 Data Analyst with **5+ years** across data architecture, BI, and statistical modeling
+- 📊 Data Analyst with **4+ years** across data architecture, BI, and statistical modeling
 - 🎓 **MSc, Data Science** — Cardiff Metropolitan University
 - 🔍 I build systems that hold up under audit — fraud-risk models, compliance pipelines, and retail analytics, not just reports
 - 🛡️ Hands-on experience with **GDPR-aligned data governance** and blockchain-integrated audit trails
