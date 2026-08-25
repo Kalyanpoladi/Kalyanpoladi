@@ -74,18 +74,6 @@ The venture is currently on hold while I pursue UK Innovator Founder visa endors
 
 <br/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyanpoladi&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kalyanpoladi/Kalyanpoladi/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<br/>
-
 ## 💼 Featured Work
 
 <table align="center">
