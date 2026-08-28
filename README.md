@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalyan Reddy Poladi</h1>
-<h3 align="center">Data Analyst | Python · SQL · Power BI · Predictive Modeling | Fraud-Risk & Compliance Data Systems</h3>
+<h3 align="center">Business Analyst → Data Analyst | Python · SQL · Power BI | Fraud-Risk, BI & Founder-Built Data Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Fraud-Risk+%26+Compliance+Systems;Python+%2B+SQL+%2B+Power+BI;MSc+Data+Science%2C+Cardiff+Met;Turning+Messy+Data+Into+Systems+People+Trust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Business+Analyst+turned+Data+Analyst;Python+%2B+SQL+%2B+Power+BI;MSc+Data+Science%2C+Cardiff+Met;Open+to+Full-Time+Data+Analyst+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,32 +15,31 @@
 
 ## 🧭 About Me
 
-- 📊 Data Analyst with **4+ years** across data architecture, BI, and statistical modeling
-- 🎓 **MSc, Data Science** — Cardiff Metropolitan University
-- 🔍 I build systems that hold up under audit — fraud-risk models, compliance pipelines, and retail analytics, not just reports
-- 🛡️ Hands-on experience with **GDPR-aligned data governance** and blockchain-integrated audit trails
-- 🚀 Also a founder — I bring business context, not just technical depth, to every project
-- 📍 Based in Warangal, Telangana, India
+- 📊 **Business Analyst** by background, **Data Analyst** by focus — Python, SQL, Power BI, predictive modeling
+- 🎓 **MSc, Data Science** — Cardiff Metropolitan University (2020–2023)
+- 🔍 Since my masters, I've built and operated my own ventures — applying data analysis to fraud-risk scoring, BI reporting, and operations, without waiting for a job title to tell me to
+- 🛡️ Hands-on with **GDPR-aligned data governance** and blockchain-integrated audit trails from founder work
+- 📍 Based in Warangal, Telangana, India — **actively looking for a full-time Data Analyst role**
 - 📫 Reach me at **kalyanreddypoladi310@gmail.com**
 
 <br/>
 
-## 🚀 Founder Journey — Smartsmire
+## 💼 Experience
 
-<p align="center">
-  <a href="https://smartsmire.co.uk"><img src="https://img.shields.io/badge/Company-smartsmire.co.uk-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://trustscoreid.com"><img src="https://img.shields.io/badge/Product-trustscoreid.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+**Business Analyst** — *2019–2020*
+First role after B.Tech; grounded me in requirements-gathering, reporting, and stakeholder-facing analysis before I specialized further in data through my masters.
 
-I founded **Smartsmire**, a UK-based venture building trust infrastructure for identity — moving beyond one-time document checks toward continuous, consent-driven verification. Three things set it apart:
+**Team Lead / Supervisor, Warehouse Operations (Part-Time)** — *2020–2025*
+Ran alongside my MSc and later ventures; grew from associate to supervisor over five years, managing shift operations and small teams. Not data-focused, but it's where I built the operational discipline that shows up in how I structure analytics work.
 
-- **Clean Path Score** — a dynamic, behavior-based trust signal that evolves with the user, cutting down repeated verification loops
-- **Triple Anchor Verification** — a three-layer model combining documents, behavioral patterns, and blockchain anchoring for tamper-resistant validation
-- **Consent Vault** — a user-controlled layer where individuals decide exactly what's shared, with whom, and for how long
+**Founder, Smartsmire (UK)** — *2023–2024*
+Built a UK-based identity trust/verification venture from the ground up. Designed the risk-scoring pipelines, anomaly detection models, and Power BI reporting behind the product myself — this is where most of my applied data analyst work comes from.
 
-Designed API-first and modular, the platform was built to plug into HR onboarding, driver-eligibility checks, gig-worker verification, and background screening — following a SaaS + API licensing model, without requiring partner organizations to rebuild their systems.
+**Founder, Import/Export Business (UK)** — *2024–2025*
+Ran a small import/export operation, managing sourcing, logistics, and margins — commercial and numbers-driven work, run in parallel with continued part-time warehouse team-lead duties.
 
-The venture is currently on hold while I pursue UK Innovator Founder visa endorsement. In parallel, I've continued the data work behind it as Business Data Analyst on the same platform — building the risk-scoring pipelines, anomaly detection models, and Power BI reporting that power it.
+**Founder, Amruta Dhaanya (Agri-Based Startup, India)** — *April 2026–Present*
+Returned to India and started an agri-products venture; currently building out the website and data/ops backbone myself (JavaScript, Supabase, Vercel).
 
 <br/>
 
@@ -74,26 +73,22 @@ The venture is currently on hold while I pursue UK Innovator Founder visa endors
 
 <br/>
 
-## 💼 Featured Work
+## 💡 Featured Work
 
 <table align="center">
   <tr>
     <td width="33%">
       <h3 align="center">🛡️ Fraud-Risk & Identity Compliance Analytics</h3>
-      <p align="center">Designed predictive risk-scoring and anomaly detection models flagging suspicious identity claims for a blockchain-based compliance platform, cutting manual review time by 30-40%.</p>
+      <p align="center">Designed predictive risk-scoring and anomaly detection models flagging suspicious identity claims for a blockchain-based compliance platform (Smartsmire), cutting manual review time by 30–40%.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
-      <p align="center">
-        <a href="https://trustscoreid.com"><img src="https://img.shields.io/badge/Live%20Product-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
-        <a href="https://smartsmire.co.uk"><img src="https://img.shields.io/badge/Company%20Site-181717?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-      </p>
     </td>
     <td width="33%">
-      <h3 align="center">🚗 Retail Inventory & Sales Intelligence</h3>
-      <p align="center">Built real-time inventory and sales tracking across 20-60 vehicles, informing purchasing decisions and reducing overstock on slow-moving inventory by 15-20%.</p>
+      <h3 align="center">🚗 Import/Export Inventory & Sales Intelligence</h3>
+      <p align="center">Built real-time inventory and sales tracking across 20–60 units, informing purchasing decisions and reducing overstock on slow-moving inventory by 15–20%.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -134,14 +129,13 @@ The venture is currently on hold while I pursue UK Innovator Founder visa endors
 
 <br/>
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning (to strengthen my Data Analyst pivot)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Data%20Engineering-4B5563?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt%20%2F%20ETL-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 <br/>
