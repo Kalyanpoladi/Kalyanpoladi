@@ -32,10 +32,10 @@ First role after B.Tech; grounded me in requirements-gathering, reporting, and s
 **Team Lead / Supervisor, Warehouse Operations (Part-Time)** — *2020–2026*
 Ran alongside my MSc and later ventures; grew from associate to supervisor over five years, managing shift operations and small teams. Not data-focused, but it's where I built the operational discipline that shows up in how I structure analytics work.
 
-**Founder, Smartsmire (UK)** — *2023–2024*
+**Founder, Smartsmire (UK)** — *2024–2025*
 Built a UK-based identity trust/verification venture from the ground up. Designed the risk-scoring pipelines, anomaly detection models, and Power BI reporting behind the product myself — this is where most of my applied data analyst work comes from.
 
-**Founder, Import/Export Business (UK)** — *2024–2025*
+**Founder, Import/Export Business (UK)** — *2025–2026*
 Ran a small import/export operation, managing sourcing, logistics, and margins — commercial and numbers-driven work, run in parallel with continued part-time warehouse team-lead duties.
 
 **Founder, Amruta Dhaanya (Agri-Based Startup, India)** — *April 2026–Present*
