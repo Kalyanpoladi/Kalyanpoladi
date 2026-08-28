@@ -29,7 +29,7 @@
 **Business Analyst** — *2019–2020*
 First role after B.Tech; grounded me in requirements-gathering, reporting, and stakeholder-facing analysis before I specialized further in data through my masters.
 
-**Team Lead / Supervisor, Warehouse Operations (Part-Time)** — *2020–2025*
+**Team Lead / Supervisor, Warehouse Operations (Part-Time)** — *2020–2026*
 Ran alongside my MSc and later ventures; grew from associate to supervisor over five years, managing shift operations and small teams. Not data-focused, but it's where I built the operational discipline that shows up in how I structure analytics work.
 
 **Founder, Smartsmire (UK)** — *2023–2024*
