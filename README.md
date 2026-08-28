@@ -58,30 +58,7 @@ Agri-products venture. Built the sales, inventory, and pricing data backbone mys
 
 ## 💡 Featured Work
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Kalyanpoladi/agri-market-analysis">🌾 Indian Grain Market Analysis</a></h3>
-      <p align="center">End-to-end analysis of India's millet & coarse grain market — mandi prices, production, and export trends using public government data. SQL modeling → Python analysis → 3-page Power BI dashboard. The data story behind Amruta Dhaanya.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Kalyanpoladi/fraud-risk-identity-analytics">🛡️ Fraud-Risk & Identity Claim Analytics</a></h3>
-      <p align="center">Risk-scoring pipeline and review-triage dashboard, recreated from my Smartsmire production system with 100% synthetic data. Feature engineering → interpretable scoring → Power BI reporting for the review team.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<table align="center"> <tr> <td width="33%"> <h3 align="center">🛡️ Fraud-Risk & Identity Compliance Analytics</h3> <p align="center">Designed predictive risk-scoring and anomaly detection models flagging suspicious identity claims for a blockchain-based compliance platform (Smartsmire), cutting manual review time by 30–40%.</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </p> </td> <td width="33%"> <h3 align="center">🚗 Import/Export Inventory & Sales Intelligence</h3> <p align="center">Built real-time inventory and sales tracking across 20–60 units, informing purchasing decisions and reducing overstock on slow-moving inventory by 15–20%.</p> <p align="center"> <img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </p> </td> <td width="33%"> <h3 align="center">📊 BI Dashboard Suite & Forecasting</h3> <p align="center">Delivered interactive Tableau & Power BI dashboards and statistical forecasting models, improving demand prediction accuracy by 18% and cutting reporting turnaround by 25%.</p> <p align="center"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </p> </td> </tr> </table> <br/>
 
 ## 🌱 Currently
 
