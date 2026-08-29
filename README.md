@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kalyanreddypoladi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kalyanreddypoladi310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kalyanpoladi&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br/>
@@ -15,9 +16,9 @@
 ## 🧭 About Me
 
 - 🎓 **MSc Data Science** (Cardiff Metropolitan University, 2023) + **B.Tech CS**, with an early career as a Business Analyst
-- 📊 Applied **SQL, Python, and Power BI** to real business problems across three founder ventures — fraud-risk scoring, inventory optimization, pricing, and sales analysis
+- 📊 Applied **SQL, Python, and Power BI** to business problems across three founder ventures — fraud-risk scoring, inventory optimization, pricing, and sales analysis
 - 🔍 Built analytics **without waiting for a job title to tell me to** — risk pipelines, BI dashboards, and ops reporting for products I ran myself
-- 🎯 Now fully committed to a **Data Analyst career** — recent, fully rebuildable projects in Featured Work below
+ 🎯 Now fully committed to a **Data Analyst career** — rebuilding my founder projects as public, step-by-step portfolio repos (in progress below 👇)
 - 📍 Warangal, Telangana, India · open to relocation · **open to full-time Data Analyst roles**
 - 📫 **kalyanreddypoladi310@gmail.com**
 
@@ -26,13 +27,13 @@
 ## 💼 Background
 
 **Founder, Smartsmire (UK)** — *2024–2025*
-Identity trust/verification venture. Personally designed the risk-scoring pipeline, anomaly detection, and Power BI reporting behind the product — my deepest applied analytics work. Public rebuild of the pipeline in 🛡️ Featured Work.
+Identity trust/verification venture. Personally designed the risk-scoring pipeline, anomaly detection, and Power BI reporting behind the product — my deepest applied analytics work.
 
 **Founder, Import/Export Business (UK)** — *2025–2026*
 Ran sourcing, logistics, and margins end-to-end. Built Excel/SQL-based inventory and sales tracking that directly informed purchasing decisions.
 
 **Founder, Amruta Dhaanya (Agri Products, India)** — *2026–Present*
-Agri-products venture. Built the sales, inventory, and pricing data backbone myself, plus an end-to-end market analysis of India's grain trade (see 🌾 Featured Work). Now transitioning full-time into data analytics.
+Agri-products venture. Built the sales, inventory, and pricing data backbone myself, plus an end-to-end market analysis of India's grain trade. Now transitioning full-time into data analytics.
 
 **Earlier:** Business Analyst (2019–2020) · MSc Data Science (2020–2023) · Warehouse Team Lead, part-time (2020–2026) — where I built the operational discipline behind how I structure analytics work.
 
@@ -56,30 +57,14 @@ Agri-products venture. Built the sales, inventory, and pricing data backbone mys
 
 <br/>
 
-## 💡 Featured Work
+## 🚧 Portfolio Projects — In Progress
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Kalyanpoladi/agri-market-analysis">🌾 Indian Grain Market Analysis</a></h3>
-      <p align="center">End-to-end analysis of India's millet & grain market — mandi prices, production, and export trends using public government data (AgMarknet, APEDA). SQL modeling → Python analysis → Power BI dashboard. The data story behind Amruta Dhaanya.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Kalyanpoladi/fraud-risk-identity-analytics">🛡️ Fraud-Risk & Identity Claim Analytics</a></h3>
-      <p align="center">Risk-scoring pipeline and review-triage dashboard, recreated from my Smartsmire production system with 100% synthetic data. Feature engineering → interpretable scoring → Power BI reporting for the review team.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
+> I'm rebuilding the analytics systems I built for my own businesses as public, fully documented repos — synthetic data, full methodology, no NDAs needed. First one drops soon.
+
+| Project | What it covers | Status |
+|---|---|---|
+| 🌾 **Indian Grain Market Analysis** | Mandi prices, production & export trends from public government data — SQL modeling → Python → Power BI | 🔨 Building now |
+| 🛡️ **Fraud-Risk & Identity Claim Analytics** | Risk-scoring pipeline & review-triage dashboard, recreated from my Smartsmire system (100% synthetic data) | 📋 Queued next |
 
 <br/>
 
