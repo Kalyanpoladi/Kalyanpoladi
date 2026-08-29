@@ -32,7 +32,7 @@ Identity trust/verification venture. Personally designed the risk-scoring pipeli
 Ran sourcing, logistics, and margins end-to-end. Built Excel/SQL-based inventory and sales tracking that directly informed purchasing decisions.
 
 **Founder, Amruta Dhaanya (Agri Products, India)** — *2026–Present*
-Agri-products venture. Built the sales, inventory, and pricing data backbone myself, an end-to-end market analysis of India's grain trade (see 🌾 Featured Work). Now transitioning full-time into data analytics.
+Agri-products venture. Built the sales, inventory, and pricing data backbone myself, plus an end-to-end market analysis of India's grain trade (see 🌾 Featured Work). Now transitioning full-time into data analytics.
 
 **Earlier:** Business Analyst (2019–2020) · MSc Data Science (2020–2023) · Warehouse Team Lead, part-time (2020–2026) — where I built the operational discipline behind how I structure analytics work.
 
@@ -50,7 +50,7 @@ Agri-products venture. Built the sales, inventory, and pricing data backbone mys
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logo=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -58,7 +58,30 @@ Agri-products venture. Built the sales, inventory, and pricing data backbone mys
 
 ## 💡 Featured Work
 
-<table align="center"> <tr> <td width="33%"> <h3 align="center">🛡️ Fraud-Risk & Identity Compliance Analytics</h3> <p align="center">Designed predictive risk-scoring and anomaly detection models flagging suspicious identity claims for a blockchain-based compliance platform (Smartsmire), cutting manual review time by 30–40%.</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </p> </td> <td width="33%"> <h3 align="center">🚗 Import/Export Inventory & Sales Intelligence</h3> <p align="center">Built real-time inventory and sales tracking across 20–60 units, informing purchasing decisions and reducing overstock on slow-moving inventory by 15–20%.</p> <p align="center"> <img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </p> </td> <td width="33%"> <h3 align="center">📊 BI Dashboard Suite & Forecasting</h3> <p align="center">Delivered interactive Tableau & Power BI dashboards and statistical forecasting models, improving demand prediction accuracy by 18% and cutting reporting turnaround by 25%.</p> <p align="center"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </p> </td> </tr> </table> <br/>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Kalyanpoladi/agri-market-analysis">🌾 Indian Grain Market Analysis</a></h3>
+      <p align="center">End-to-end analysis of India's millet & grain market — mandi prices, production, and export trends using public government data (AgMarknet, APEDA). SQL modeling → Python analysis → Power BI dashboard. The data story behind Amruta Dhaanya.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Kalyanpoladi/fraud-risk-identity-analytics">🛡️ Fraud-Risk & Identity Claim Analytics</a></h3>
+      <p align="center">Risk-scoring pipeline and review-triage dashboard, recreated from my Smartsmire production system with 100% synthetic data. Feature engineering → interpretable scoring → Power BI reporting for the review team.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🌱 Currently
 
@@ -91,5 +114,5 @@ Agri-products venture. Built the sales, inventory, and pricing data backbone mys
 
 <p align="center">
   <a href="https://linkedin.com/in/kalyanreddypoladi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kalyanreddoladi310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kalyanreddypoladi310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
