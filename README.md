@@ -18,41 +18,61 @@
 - 🎓 **MSc Data Science** (Cardiff Metropolitan University, 2023) + **B.Tech CS**, with an early career as a Business Analyst
 - 📊 Applied **SQL, Python, and Power BI** to business problems across three founder ventures — fraud-risk scoring, inventory optimization, pricing, and sales analysis
 - 🔍 Built analytics **without waiting for a job title to tell me to** — risk pipelines, BI dashboards, and ops reporting for products I ran myself
- 🎯 Now fully committed to a **Data Analyst career** — rebuilding my founder projects as public, step-by-step portfolio repos (in progress below 👇)
+- 🛠️ Currently building **Amruta Dhaanya** end-to-end — web platform (JS/HTML/CSS), AppSheet ops app, Excel data backbone, and dashboards
+- 🎯 Now fully committed to a **Data Analyst career** — rebuilding my founder projects as public, step-by-step portfolio repos (in progress below 👇)
 - 📍 Warangal, Telangana, India · open to relocation · **open to full-time Data Analyst roles**
 - 📫 **kalyanreddypoladi310@gmail.com**
 
 <br/>
 
-## 💼 Background
+## 🧭 My Journey
 
-**Founder, Smartsmire (UK)** — *2024–2025*
-Identity trust/verification venture. Personally designed the risk-scoring pipeline, anomaly detection, and Power BI reporting behind the product — my deepest applied analytics work.
 
-**Founder, Import/Export Business (UK)** — *2025–2026*
-Ran sourcing, logistics, and margins end-to-end. Built Excel/SQL-based inventory and sales tracking that directly informed purchasing decisions.
+**2019–2020 · Business Analyst + Warehouse Team Lead** — First taste of turning data into decisions, paired with hard operational discipline on the warehouse floor.
 
-**Founder, Amruta Dhaanya (Agri Products, India)** — *2026–Present*
-Agri-products venture. Built the sales, inventory, and pricing data backbone myself, plus an end-to-end market analysis of India's grain trade. Now transitioning full-time into data analytics.
+**2020–2023 · MSc Data Science, Cardiff Metropolitan University (UK)** — Deepened the theory: statistics, machine learning, data engineering. Part-time warehouse work throughout kept me grounded in real operations. Won startup competitions and innovation grants along the way.
 
-**Earlier:** Business Analyst (2019–2020) · MSc Data Science (2020–2023) · Warehouse Team Lead, part-time (2020–2026) — where I built the operational discipline behind how I structure analytics work.
+**2024–2025 · Founder, Smartsmire (UK)** — Identity trust/verification venture. Personally designed the risk-scoring pipeline, anomaly detection, and Power BI reporting behind the product — my deepest applied analytics work.
+
+**2025–2026 · Founder, Import/Export Business (UK)** — Ran sourcing, logistics, and margins end-to-end. Built Excel/SQL-based inventory and sales tracking that directly informed purchasing decisions.
+
+**2026–Present · Founder, Amruta Dhaanya (India)** — Agri-products venture, built stack-first: JS/HTML/CSS web platform, AppSheet operations app, Excel data backbone, and dashboards on top. Built the sales, inventory, and pricing analytics myself. Now transitioning full-time into data analytics.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
+**Analytics Core**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
+**Dashboards & BI**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+**Building & Ops (Amruta Dhaanya stack)**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AppSheet-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+**Workflow**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <br/>
@@ -70,7 +90,7 @@ Agri-products venture. Built the sales, inventory, and pricing data backbone mys
 
 ## 🌱 Currently
 
-- 🔨 Building the **sales & inventory analytics layer** for Amruta Dhaanya — SQL + Power BI dashboards on live business data
+- 🔨 Building **Amruta Dhaanya** — JS/HTML/CSS web platform, AppSheet ops app, Excel data backbone, and dashboards
 - 📜 Preparing for **Microsoft PL-300** (Power BI Data Analyst certification)
 - 🎯 Open to **Data Analyst / Business Analyst / Reporting Analyst** roles — remote, hybrid, or on-site
 
