@@ -1,32 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kalyan Reddy Poladi</h1>
-<h3 align="center">Data Analyst | SQL · Python · Power BI | MSc Data Science | Founder-Built Analytics for Real Businesses</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;MSc+Data+Science%2C+Cardiff+Met;Applied+analytics+across+3+founder+ventures;Open+to+Full-Time+Data+Analyst+Roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kalyanreddypoladi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kalyanreddypoladi310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Kalyanpoladi&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
-</p>
-
-<br/>
-
-## 🧭 About Me
-
-- 🎓 **MSc Data Science** (Cardiff Metropolitan University, 2023) + **B.Tech CS**, with an early career as a Business Analyst
-- 📊 Applied **SQL, Python, and Power BI** to business problems across three founder ventures — fraud-risk scoring, inventory optimization, pricing, and sales analysis
-- 🔍 Built analytics **without waiting for a job title to tell me to** — risk pipelines, BI dashboards, and ops reporting for products I ran myself
-- 🛠️ Currently building **Amruta Dhaanya** end-to-end — web platform (JS/HTML/CSS), AppSheet ops app, Excel data backbone, and dashboards
-- 🎯 Now fully committed to a **Data Analyst career** — rebuilding my founder projects as public, step-by-step portfolio repos (in progress below 👇)
-- 📍 Warangal, Telangana, India · open to relocation · **open to full-time Data Analyst roles**
-- 📫 **kalyanreddypoladi310@gmail.com**
-
-<br/>
-
-## 🧭 My Journey
-
 
 **2019–2020 · Business Analyst + Warehouse Team Lead** — First taste of turning data into decisions, paired with hard operational discipline on the warehouse floor.
 
