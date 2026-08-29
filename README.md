@@ -35,7 +35,7 @@ Statistics, machine learning, analytics — the full toolkit. Won startup compet
 **Mar 2021 – Apr 2026 · Team Lead — Retail Logistics (part-time, UK)**
 Alongside studies and ventures, ~5 years leading warehouse and retail logistics operations. Shipped, scheduled, solved problems under pressure daily — and built the operational discipline behind how I structure analytics work.
 
-**Aug 2022 – Nov 2023 · Data Analyst Intern, ASAP Solutions (Hatfield, UK)**
+**Jul 2021 – Nov 2022 · Data Analyst Intern, ASAP Solutions (Hatfield, UK)**
 Over a year of applied analytics in a UK company during my MSc — real data, real stakeholders, real deadlines.
 
 **2024–2025 · Founder Venture Attempt (UK)**
@@ -51,7 +51,7 @@ Running my agri venture part-time — web platform, AppSheet ops app, Excel data
 
 ## 💼 Background
 
-**Data Analyst Intern, ASAP Solutions (Hatfield, UK)** — *Aug 2022 – Nov 2023*
+**Data Analyst Intern, ASAP Solutions (Hatfield, UK)** — *Jul 2021 – Nov 2022*
 Over a year of applied analytics in a UK company — real data, real stakeholders, real deadlines.
 
 **Team Lead — Retail Logistics (part-time, UK)** — *Mar 2021 – Apr 2026*
