@@ -1,110 +1,75 @@
 <h1 align="center">Hi 👋, I'm Kalyan Reddy Poladi</h1>
-<h3 align="center">Data Analyst | Business Intelligence Analyst | Risk Analytics | SQL · Python · Power BI</h3>
+<h3 align="center">Snowflake Developer | DBT · SQL · AWS | Data Warehousing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau;Risk+Analytics+%C2%B7+ETL+Pipelines+%C2%B7+KPI+Dashboards;MSc+Data+Science%2C+Cardiff+Metropolitan+University;Open+to+Full-Time+Data+Analyst+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&width=650&lines=Snowflake+Developer+%7C+DBT+%C2%B7+SQL+%C2%B7+AWS;Data+Warehousing+%C2%B7+Snowpipe+%C2%B7+ETL+Pipelines;MSc+Data+Science%2C+Cardiff+Metropolitan+University;Open+to+Snowflake+%26+Data+Engineering+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kalyanreddypoladi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kalyanreddypoladi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:kalyanreddypoladi310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Kalyanpoladi&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:kalyanreddypoladi021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🧭 About Me
 
-- 📊 Data Analyst who has **cut manual review time by up to 40% and report generation time by 40%** through SQL, Python, and Power BI–driven automation across fintech compliance and operations environments
-- 🛠️ Core stack: **SQL, T-SQL, Python (Pandas/NumPy), Power BI, Tableau, Excel, DAX, Power Query, PostgreSQL, MySQL, Git**
-- 🔍 Hands-on with **ETL pipelines, KPI dashboards, data modeling, forecasting, anomaly detection, risk scoring, and GDPR-aligned data governance**
-- 🎓 **MSc Data Science** — Cardiff Metropolitan University, UK
-- 🎯 Currently preparing for **Microsoft PL-300** (Power BI Data Analyst certification)
-- 📍 Warangal, Telangana, India · open to relocation · **open to full-time Data Analyst / BI Analyst roles**
-- 📫 **kalyanreddypoladi310@gmail.com**
+- ❄️ Snowflake Developer with **3+ years of experience** building and supporting data warehouses on **Snowflake and DBT**
+- 🛠️ Core stack: **Snowflake, DBT, SQL, Python, AWS (S3, Lambda), Snowpipe, Informatica, Oracle, Git**
+- 🔍 Hands-on with **incremental DBT models, data modelling (star schema, SCD Types 1–3), query performance tuning, cloning, Time Travel and data sharing**
+- 🎓 **MSc Data Science**, Cardiff Metropolitan University, UK
+- 📊 Working knowledge of **Power BI** for reporting on top of Snowflake data
+- 🎯 Open to **Snowflake / DBT / Data Engineering** roles
+- 📫 **kalyanreddypoladi021@gmail.com**
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-**Data Analyst — Confidential Early-Stage Company (name withheld), India** · *Jul 2026 – Present*
-- Contributed to a data-driven operations platform managing sales, inventory, product, pricing, and customer data for a retail venture
-- Built performance dashboards to monitor product, stock availability, margins, and purchasing decisions
-- Improved visibility into demand trends, pricing gaps, inventory planning, and operational decision-making
+**Snowflake Developer, Course5i** · *Jul 2023 – Present*
 
-**Business Data Analyst — Confidential Early-Stage Company (name withheld), UK** · *Sep 2024 – Dec 2025*
-- Designed scalable **ETL pipelines** for identity verification and compliance analytics — reduced manual review time by30–40%**
-- Built **Python & SQL risk-scoring and anomaly detection models** to flag suspicious identity claims before compliance review
-- Developed **Power BI dashboards** for compliance, verification status, exception tracking, and operational KPIs — ~30% faster data access
-- Optimized SQL queries & automated recurring reports — **40% faster report generation**
-- Implemented **GDPR-aligned data governance**, audit trails, validation checks, and traceable reporting workflows
+*Client: Cisco, DATA-D&A-FDS Program (Snowflake, DBT)*
+- Built and maintained DBT models (incremental and full load), macros and SQL tests
+- Delivered change requests and release deployments from source systems (Teradata, HANA, Informatica, BigQuery) into Snowflake
+- Resolved incidents within SLA with short-term fixes and root-cause analysis for long-term ones
+- Analysed Snowflake queries to improve performance; created DBT views for reporting and data sharing for the testing team
 
-**Data Analyst — ASAP Data Solutions, Hatfield, England, UK** · *Jul 2021 – Nov 2022*
-- Built interactive **Tableau & Power BI dashboards** — 25% faster data turnaround
-- Optimized SQL scripts, joins, and database queries — **20% faster execution**
-- Statistical forecasting & trend analysis — **18% better demand-prediction accuracy**
-- Data validation & quality-control workflows — **100% validation accuracy** on critical reports
-- Gathered requirements, defined KPIs, and converted reporting needs into analytics solutions
-
-**Junior Data Analyst — Accumed Software Solutions Pvt Ltd, Hyderabad, India** · *Feb 2019 – May 2020*
-- Inventory tracking dashboards & operational reports — **25% fewer-management issues**
-- Automated data loading with Shell Scripts; optimized T-SQL for long-running database processes
-- Process & performance analysis — **20% workforce productivity improvement**
-
-**Team Lead (Part-Time, Concurrent) — Distribution Centre, UK** · *Apr 2021 – Apr 2026*
-- Led a distribution centre team for 5 years alongside data analytics roles
-- Applied data-driven decision-making to floor operations — flagged bottlenecks, improved handling times
-
-## 📌 Portfolio Projects
-
-| Project | Stack | What it covers | Status |
-|---|---|---|---|
-| 🌾 **[Indian Grain Market Analysis](https://github.com/Kalyanpoladi)** | SQL · Python · Power BI | End-to-end analysis of mandi prices, production, and export trends from public government data — SQL data modeling, Python trend analysis, interactive Power BI dashboard | 🔨 Building now |
-| 🛡️ **Fraud-Risk & Identity Claim Analytics** | Python · SQL · Power BI | Risk-scoring pipeline & review-triage dashboard recreated from compliance analytics experience (100% synthetic data, full methodology) | 📋 Next up |
-| 📦 **Inventory & Sales Performance Analytics** | SQL · Power BI | Inventory optimization, margin & pricing analysis, demand forecasting — modeled on my operations analytics experience | 📋 Planned |
+*Client: Arrow Electronics (Informatica, SQL, Snowflake, AWS)*
+- Designed ETL loads into SQL Server and Oracle, including facts and slowly changing dimensions (SCD Type 1 and 2)
+- Used Snowpipe for continuous loading, with AWS S3 and Lambda in the pipeline
+- Used Time Travel (up to 56 days) and cloning to recover data and test changes on production copies
 
 ## 🛠️ Tech Stack
 
-**Analytics Core**
+**Data Platform**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3_%26_Lambda-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snowpipe-29B5E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge"/>
+</p>
+
+**Languages & Databases**
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unix-333333?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-**Dashboards & BI**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-**Workflow & Governance**
+**Tools & Reporting**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-003B71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDPR_Governance-00629B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI_(basic)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-
-## 🌱 Currently
-
-- 📜 Preparing for **Microsoft PL-300: Power BI Data Analyst** certification
-- 🔨 Publishing **Indian Grain Market Analysis** — public repo with full methodology
-- 🎯 Open to **Data Analyst / Business Intelligence Analyst / Reporting Analyst** roles — remote, hybrid, or on-site
 
 ## 🎓 Education
 
-- **MSc, Data Science** — Cardiff Metropolitan University, UK (2020 – 2023)
-- **B.Tech, Computer Science** — SR University, India (2015 – 2019)
-- **Associate Degree, Entrepreneurship** — Indian School of Business, India (2017 – 2019)
+- **MSc, Data Science**, Cardiff Metropolitan University, UK (2023)
+- **B.Tech, Computer Science**, SR University, India (2019)
 
 ## 🏆 Achievements
 
@@ -119,5 +84,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/kalyanreddypoladi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kalyanreddypoladi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <a href="mailto:kalyanreddypoladi310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kalyanreddypoladi021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
