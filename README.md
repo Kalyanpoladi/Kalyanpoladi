@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalyan Reddy Poladi</h1>
-<h3 align="center">Data Engineer · Snowflake · dbt · AWS</h3>
+<h3 align="center">Snowflake Developer · ETL Developer · Data Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Building+data+platforms+teams+can+trust;Snowflake+%C2%B7+dbt+%C2%B7+SQL+%C2%B7+AWS;Test+%C2%B7+Diagnose+%C2%B7+Recover;Open+to+Snowflake+%26+Data+Engineering+Roles" alt="Typing SVG" />
